@@ -3,6 +3,14 @@ package easy;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * LeetCode Easy
+ * Id : 1
+ * 
+ * 
+ * @author Kundan
+ *
+ */
 public class TwoSum {
 	/*
 	 * Brute Force approach involves the use of 2 for loops.
