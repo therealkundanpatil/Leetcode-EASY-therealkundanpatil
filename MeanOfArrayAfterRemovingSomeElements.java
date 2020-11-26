@@ -14,7 +14,7 @@ import java.util.Arrays;
  *
  */
 class MeanOfArrayAfterRemovingSomeElements {
-	public double trimMean(int[] arr) {
+	public static double trimMean(int[] arr) {
 		// Sort in ascending order
 		Arrays.sort(arr);
 		int dataLength = arr.length;
